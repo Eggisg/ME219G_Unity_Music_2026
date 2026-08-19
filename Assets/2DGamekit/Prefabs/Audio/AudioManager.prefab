@@ -472,18 +472,18 @@ MonoBehaviour:
     Path: event:/Enemies/Enemy_Die
   stingerGameOver:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1506274168
+      Data2: 1339889931
+      Data3: 1022808487
+      Data4: 121370390
+    Path: event:/Music/Stingers/DeathStinger
   stingerKeyPickup:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 209538104
+      Data2: 1337730899
+      Data3: 891895466
+      Data4: 1155036240
+    Path: event:/Music/Stingers/KeyStinger
   stingerWeaponPickup:
     Guid:
       Data1: 0
