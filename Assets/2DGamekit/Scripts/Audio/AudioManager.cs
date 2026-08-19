@@ -305,7 +305,7 @@ public class AudioManager : MonoBehaviour
 
     public void PlayKey(GameObject keyObject)
     {
-        //RuntimeManager.PlayOneShotAttached(pickupKey, keyObject);
+        RuntimeManager.PlayOneShotAttached(pickupKey, keyObject);
 
         if (stingerKeyPickup.IsNull)
         {

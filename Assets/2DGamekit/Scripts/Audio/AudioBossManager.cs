@@ -137,6 +137,7 @@ public class AudioBossManager : MonoBehaviour
                 eventInstance.start();
                 eventInstance.release();
                 break;
+            
         }
     }
     
